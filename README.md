@@ -1,10 +1,12 @@
+<h1 align="center">Hi 👋, I'm Lakshya Kumar</h1>
+<h3 align="center">🚀 ML Engineer • Data Scientist • Web Developer</h3>
+
 # 💫 About Me:
 🎓 B.Tech CSE (AI & ML) | Haridwar University (2023–2027)  
 💡 Passionate about Artificial Intelligence & Machine Learning  
 🔍 Exploring Computer Vision, Deep Learning & Scalable Backend Systems  
 🛠️ I build real-world AI solutions — not just models  
 🧩 Strong focus on Problem Solving, Optimization & System Design  
-🏆 UTKARSH 1.0 Finalist  
 
 ---
 
