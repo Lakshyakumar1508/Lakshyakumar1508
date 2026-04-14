@@ -10,9 +10,9 @@
 
 ## 🚀 What I’m Currently Working On:
 - 🔥 Real-time AI systems 
-- 🎯 Computer Visions
-- ⚙️ Backend systems using Node.js & APIs
-- 📚 AI Powered Personal Assistant
+- 🎯 Computer Vision (object detection & model optimization)
+- ⚙️ Backend systems using Node.js, APIs & scalable architecture
+- 📚 AI-powered Personal Assistant for smarter learning
 
 ---
 
